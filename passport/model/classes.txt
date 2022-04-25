@@ -1,0 +1,6 @@
+broken_marking_line
+pedestrian_crossing
+public_transport_stops
+road_sign
+traffic_light
+tree

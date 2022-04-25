@@ -1,0 +1,5 @@
+train: ./data/road/train/images
+test: ./data/road/test/images
+
+nc: 6
+names: ['broken_marking_line', 'pedestrian_crossing', 'public_transport_stops', 'road_sign', 'traffic_light', 'tree']
